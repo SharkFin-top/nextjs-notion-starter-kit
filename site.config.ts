@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'f6f8ec649f2c413baa701e07bf371e1d',
+  rootNotionPageId: '693c9efd216c4a52844446706dc96230',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '沙克芬 SharkFin',
-  domain: 'https://www.notion.so/weak/SharkFin-f6f8ec649f2c413baa701e07bf371e1d',
+  domain: 'https://www.notion.so/weak/693c9efd216c4a52844446706dc96230',
   author: '沙克芬 SharkFin',
 
   // open graph metadata (optional)
